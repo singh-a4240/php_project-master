@@ -1,0 +1,513 @@
+[21-Jul-2020 22:07:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(236): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 22:09:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(236): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 22:09:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(236): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 22:11:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(236): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 22:11:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(236): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 22:11:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(236): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 22:12:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(30): PDOService->execute()
+#2 C:\php_project-master\Index.php(236): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 22:13:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(30): PDOService->execute()
+#2 C:\php_project-master\Index.php(236): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 22:14:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(30): PDOService->execute()
+#2 C:\php_project-master\Index.php(236): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 22:14:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOService::lastInsertId() in C:\php_project-master\inc\Utility\PatientDAO.class.php:31
+Stack trace:
+#0 C:\php_project-master\Index.php(236): PatientDAO::signup(Object(Patient))
+#1 {main}
+  thrown in C:\php_project-master\inc\Utility\PatientDAO.class.php on line 31
+[21-Jul-2020 22:16:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '43' for key 'PRIMARY' in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(30): PDOService->execute()
+#2 C:\php_project-master\Index.php(236): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 22:16:51 UTC] PHP Notice:  Undefined property: Patient::$getName in C:\php_project-master\inc\Utility\PatientDAO.class.php on line 23
+[21-Jul-2020 22:16:51 UTC] PHP Stack trace:
+[21-Jul-2020 22:16:51 UTC] PHP   1. {main}() C:\php_project-master\Index.php:0
+[21-Jul-2020 22:16:51 UTC] PHP   2. PatientDAO::signup() C:\php_project-master\Index.php:236
+[21-Jul-2020 22:16:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(236): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 22:17:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(236): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 22:18:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Name' cannot be null in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(236): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 22:20:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Name' cannot be null in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(236): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 22:48:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '11' for key 'PRIMARY' in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(234): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 22:49:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '11' for key 'PRIMARY' in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(234): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 22:50:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '11' for key 'PRIMARY' in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(235): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 22:52:41 UTC] PHP Notice:  Undefined index: name in C:\php_project-master\Index.php on line 237
+[21-Jul-2020 22:52:41 UTC] PHP Stack trace:
+[21-Jul-2020 22:52:41 UTC] PHP   1. {main}() C:\php_project-master\Index.php:0
+[21-Jul-2020 22:52:41 UTC] PHP Notice:  Undefined index: email in C:\php_project-master\Index.php on line 238
+[21-Jul-2020 22:52:41 UTC] PHP Stack trace:
+[21-Jul-2020 22:52:41 UTC] PHP   1. {main}() C:\php_project-master\Index.php:0
+[21-Jul-2020 22:52:41 UTC] PHP Notice:  Undefined index: address in C:\php_project-master\Index.php on line 239
+[21-Jul-2020 22:52:41 UTC] PHP Stack trace:
+[21-Jul-2020 22:52:41 UTC] PHP   1. {main}() C:\php_project-master\Index.php:0
+[21-Jul-2020 22:52:41 UTC] PHP Notice:  Undefined index: phoneNumber in C:\php_project-master\Index.php on line 240
+[21-Jul-2020 22:52:41 UTC] PHP Stack trace:
+[21-Jul-2020 22:52:41 UTC] PHP   1. {main}() C:\php_project-master\Index.php:0
+[21-Jul-2020 22:52:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '11' for key 'PRIMARY' in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(243): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 22:53:29 UTC] PHP Notice:  Undefined index: email in C:\php_project-master\Index.php on line 238
+[21-Jul-2020 22:53:29 UTC] PHP Stack trace:
+[21-Jul-2020 22:53:29 UTC] PHP   1. {main}() C:\php_project-master\Index.php:0
+[21-Jul-2020 22:53:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '44' for key 'PRIMARY' in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(243): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 22:54:09 UTC] PHP Notice:  Undefined index: email in C:\php_project-master\Index.php on line 238
+[21-Jul-2020 22:54:09 UTC] PHP Stack trace:
+[21-Jul-2020 22:54:09 UTC] PHP   1. {main}() C:\php_project-master\Index.php:0
+[21-Jul-2020 22:54:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '44' for key 'PRIMARY' in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(243): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 22:57:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '88' for key 'PRIMARY' in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(243): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 23:03:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '88' for key 'PRIMARY' in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(244): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 23:04:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '88' for key 'PRIMARY' in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(245): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 23:04:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '88' for key 'PRIMARY' in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(245): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 23:09:44 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to PatientDAO::signup() must be an instance of Patient, string given, called in C:\php_project-master\Index.php on line 235 and defined in C:\php_project-master\inc\Utility\PatientDAO.class.php:15
+Stack trace:
+#0 C:\php_project-master\Index.php(235): PatientDAO::signup('88')
+#1 {main}
+  thrown in C:\php_project-master\inc\Utility\PatientDAO.class.php on line 15
+[21-Jul-2020 23:10:33 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to PatientDAO::signup() must be an instance of Patient, string given, called in C:\php_project-master\Index.php on line 235 and defined in C:\php_project-master\inc\Utility\PatientDAO.class.php:15
+Stack trace:
+#0 C:\php_project-master\Index.php(235): PatientDAO::signup('41')
+#1 {main}
+  thrown in C:\php_project-master\inc\Utility\PatientDAO.class.php on line 15
+[21-Jul-2020 23:11:26 UTC] PHP Notice:  Undefined variable: PatientId in C:\php_project-master\inc\Utility\PatientDAO.class.php on line 42
+[21-Jul-2020 23:11:26 UTC] PHP Stack trace:
+[21-Jul-2020 23:11:26 UTC] PHP   1. {main}() C:\php_project-master\Index.php:0
+[21-Jul-2020 23:11:26 UTC] PHP   2. PatientDAO::getPatient() C:\php_project-master\Index.php:235
+[21-Jul-2020 23:12:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '41' for key 'PRIMARY' in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(246): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 23:14:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '41' for key 'PRIMARY' in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(246): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 23:14:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '11' for key 'PRIMARY' in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(246): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 23:16:37 UTC] PHP Notice:  Undefined variable: db in C:\php_project-master\inc\Utility\PatientDAO.class.php on line 44
+[21-Jul-2020 23:16:37 UTC] PHP Stack trace:
+[21-Jul-2020 23:16:37 UTC] PHP   1. {main}() C:\php_project-master\Index.php:0
+[21-Jul-2020 23:16:37 UTC] PHP   2. PatientDAO::getPatient() C:\php_project-master\Index.php:235
+[21-Jul-2020 23:16:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function singleResult() on null in C:\php_project-master\inc\Utility\PatientDAO.class.php:44
+Stack trace:
+#0 C:\php_project-master\Index.php(235): PatientDAO::getPatient(11)
+#1 {main}
+  thrown in C:\php_project-master\inc\Utility\PatientDAO.class.php on line 44
+[21-Jul-2020 23:16:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '11' for key 'PRIMARY' in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(246): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 23:17:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '11' for key 'PRIMARY' in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(246): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 23:18:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '11' for key 'PRIMARY' in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(246): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 23:18:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '11' for key 'PRIMARY' in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(246): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 23:18:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '11' for key 'PRIMARY' in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(246): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 23:18:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '11' for key 'PRIMARY' in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(246): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 23:18:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '11' for key 'PRIMARY' in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(246): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 23:19:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '11' for key 'PRIMARY' in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(246): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 23:20:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '11' for key 'PRIMARY' in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(29): PDOService->execute()
+#2 C:\php_project-master\Index.php(246): PatientDAO::signup(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[21-Jul-2020 23:23:28 UTC] PHP Notice:  Undefined property: PDOService::$stmt in C:\php_project-master\inc\Utility\PDOService.class.php on line 93
+[21-Jul-2020 23:23:28 UTC] PHP Stack trace:
+[21-Jul-2020 23:23:28 UTC] PHP   1. {main}() C:\php_project-master\Index.php:0
+[21-Jul-2020 23:23:28 UTC] PHP   2. PatientDAO::getPatient() C:\php_project-master\Index.php:235
+[21-Jul-2020 23:23:28 UTC] PHP   3. PDOService->singleResult() C:\php_project-master\inc\Utility\PatientDAO.class.php:45
+[21-Jul-2020 23:23:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in C:\php_project-master\inc\Utility\PDOService.class.php:93
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PatientDAO.class.php(45): PDOService->singleResult()
+#1 C:\php_project-master\Index.php(235): PatientDAO::getPatient(11)
+#2 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 93
+[22-Jul-2020 00:28:23 UTC] PHP Notice:  Undefined variable: newPatient in C:\php_project-master\Index.php on line 253
+[22-Jul-2020 00:28:23 UTC] PHP Stack trace:
+[22-Jul-2020 00:28:23 UTC] PHP   1. {main}() C:\php_project-master\Index.php:0
+[22-Jul-2020 00:28:23 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to PatientDAO::updatePatient() must be an instance of Patient, null given, called in C:\php_project-master\Index.php on line 253 and defined in C:\php_project-master\inc\Utility\PatientDAO.class.php:63
+Stack trace:
+#0 C:\php_project-master\Index.php(253): PatientDAO::updatePatient(NULL)
+#1 {main}
+  thrown in C:\php_project-master\inc\Utility\PatientDAO.class.php on line 63
+[22-Jul-2020 00:29:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(76): PDOService->execute()
+#2 C:\php_project-master\Index.php(261): PatientDAO::updatePatient(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[22-Jul-2020 00:40:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(76): PDOService->execute()
+#2 C:\php_project-master\Index.php(261): PatientDAO::updatePatient(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[22-Jul-2020 00:40:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(76): PDOService->execute()
+#2 C:\php_project-master\Index.php(261): PatientDAO::updatePatient(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[22-Jul-2020 00:43:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(76): PDOService->execute()
+#2 C:\php_project-master\Index.php(261): PatientDAO::updatePatient(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[22-Jul-2020 00:45:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(76): PDOService->execute()
+#2 C:\php_project-master\Index.php(261): PatientDAO::updatePatient(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[22-Jul-2020 00:48:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(76): PDOService->execute()
+#2 C:\php_project-master\Index.php(261): PatientDAO::updatePatient(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[22-Jul-2020 00:49:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(76): PDOService->execute()
+#2 C:\php_project-master\Index.php(261): PatientDAO::updatePatient(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[22-Jul-2020 00:50:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(76): PDOService->execute()
+#2 C:\php_project-master\Index.php(261): PatientDAO::updatePatient(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[22-Jul-2020 00:56:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\PatientDAO.class.php(76): PDOService->execute()
+#2 C:\php_project-master\Index.php(261): PatientDAO::updatePatient(Object(Patient))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[22-Jul-2020 01:11:14 UTC] PHP Notice:  Undefined index: UID in C:\php_project-master\Index.php on line 235
+[22-Jul-2020 01:11:14 UTC] PHP Stack trace:
+[22-Jul-2020 01:11:14 UTC] PHP   1. {main}() C:\php_project-master\Index.php:0
+[22-Jul-2020 01:11:14 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to PatientDAO::getPatient() must be of the type int, null given, called in C:\php_project-master\Index.php on line 235 and defined in C:\php_project-master\inc\Utility\PatientDAO.class.php:37
+Stack trace:
+#0 C:\php_project-master\Index.php(235): PatientDAO::getPatient(NULL)
+#1 {main}
+  thrown in C:\php_project-master\inc\Utility\PatientDAO.class.php on line 37
+[22-Jul-2020 01:12:28 UTC] PHP Notice:  Undefined index: UID in C:\php_project-master\Index.php on line 235
+[22-Jul-2020 01:12:28 UTC] PHP Stack trace:
+[22-Jul-2020 01:12:28 UTC] PHP   1. {main}() C:\php_project-master\Index.php:0
+[22-Jul-2020 01:12:28 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to PatientDAO::getPatient() must be of the type int, null given, called in C:\php_project-master\Index.php on line 235 and defined in C:\php_project-master\inc\Utility\PatientDAO.class.php:37
+Stack trace:
+#0 C:\php_project-master\Index.php(235): PatientDAO::getPatient(NULL)
+#1 {main}
+  thrown in C:\php_project-master\inc\Utility\PatientDAO.class.php on line 37
+[22-Jul-2020 01:12:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PatientDAO::login() in C:\php_project-master\Index.php:255
+Stack trace:
+#0 {main}
+  thrown in C:\php_project-master\Index.php on line 255
+[22-Jul-2020 01:13:53 UTC] PHP Notice:  Undefined index: LPASSWORD in C:\php_project-master\Index.php on line 255
+[22-Jul-2020 01:13:53 UTC] PHP Stack trace:
+[22-Jul-2020 01:13:53 UTC] PHP   1. {main}() C:\php_project-master\Index.php:0
+[22-Jul-2020 01:31:38 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) or const (T_CONST) in C:\php_project-master\inc\Utility\DoctorDAO.class.php on line 43
+[22-Jul-2020 01:42:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Speciality' cannot be null in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\DoctorDAO.class.php(54): PDOService->execute()
+#2 C:\php_project-master\Index.php(274): DoctorDAO::signup(Object(Doctor))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[22-Jul-2020 02:00:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\php_project-master\inc\Utility\DiseaseDAO.class.php:21
+Stack trace:
+#0 C:\php_project-master\Index.php(274): DiseaseDAO::addDisease(Object(Disease))
+#1 {main}
+  thrown in C:\php_project-master\inc\Utility\DiseaseDAO.class.php on line 21
+[22-Jul-2020 02:04:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '11' for key 'PRIMARY' in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\DiseaseDAO.class.php(26): PDOService->execute()
+#2 C:\php_project-master\Index.php(275): DiseaseDAO::addDisease(Object(Disease))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[22-Jul-2020 02:14:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\php_project-master\inc\Utility\VisitDAO.class.php:34
+Stack trace:
+#0 C:\php_project-master\Index.php(273): VisitDAO::getVisits()
+#1 {main}
+  thrown in C:\php_project-master\inc\Utility\VisitDAO.class.php on line 34
+[22-Jul-2020 02:39:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in C:\php_project-master\Index.php:269
+Stack trace:
+#0 {main}
+  thrown in C:\php_project-master\Index.php on line 269
+[22-Jul-2020 02:40:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'Date' doesn't have a default value in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\VisitDAO.class.php(27): PDOService->execute()
+#2 C:\php_project-master\Index.php(276): VisitDAO::addVisit(Object(Visit))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[22-Jul-2020 02:42:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'PatientID' at row 1 in C:\php_project-master\inc\Utility\PDOService.class.php:81
+Stack trace:
+#0 C:\php_project-master\inc\Utility\PDOService.class.php(81): PDOStatement->execute()
+#1 C:\php_project-master\inc\Utility\VisitDAO.class.php(28): PDOService->execute()
+#2 C:\php_project-master\Index.php(278): VisitDAO::addVisit(Object(Visit))
+#3 {main}
+  thrown in C:\php_project-master\inc\Utility\PDOService.class.php on line 81
+[22-Jul-2020 02:43:30 UTC] PHP Notice:  Undefined variable: newVisit in C:\php_project-master\inc\Utility\VisitDAO.class.php on line 67
+[22-Jul-2020 02:43:30 UTC] PHP Stack trace:
+[22-Jul-2020 02:43:30 UTC] PHP   1. {main}() C:\php_project-master\Index.php:0
+[22-Jul-2020 02:43:30 UTC] PHP   2. VisitDAO::updateVisit() C:\php_project-master\Index.php:278
+[22-Jul-2020 02:43:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getPatientID() on null in C:\php_project-master\inc\Utility\VisitDAO.class.php:67
+Stack trace:
+#0 C:\php_project-master\Index.php(278): VisitDAO::updateVisit(Object(Visit))
+#1 {main}
+  thrown in C:\php_project-master\inc\Utility\VisitDAO.class.php on line 67
+[22-Jul-2020 03:08:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOService::debugDumpParams() in C:\php_project-master\inc\Utility\VisitDAO.class.php:92
+Stack trace:
+#0 C:\php_project-master\Index.php(65): VisitDAO::deleteVisit(1)
+#1 {main}
+  thrown in C:\php_project-master\inc\Utility\VisitDAO.class.php on line 92
+[22-Jul-2020 03:08:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOService::debugDumpParams() in C:\php_project-master\inc\Utility\VisitDAO.class.php:92
+Stack trace:
+#0 C:\php_project-master\Index.php(65): VisitDAO::deleteVisit(1)
+#1 {main}
+  thrown in C:\php_project-master\inc\Utility\VisitDAO.class.php on line 92
+[22-Jul-2020 03:11:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Page::Carousel() in C:\php_project-master\Index.php:32
+Stack trace:
+#0 {main}
+  thrown in C:\php_project-master\Index.php on line 32
+[22-Jul-2020 03:12:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Page::main() in C:\php_project-master\Index.php:32
+Stack trace:
+#0 {main}
+  thrown in C:\php_project-master\Index.php on line 32
+[22-Jul-2020 03:12:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Page::main() in C:\php_project-master\Index.php:32
+Stack trace:
+#0 {main}
+  thrown in C:\php_project-master\Index.php on line 32
+[22-Jul-2020 03:13:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOService::debugDumpParams() in C:\php_project-master\inc\Utility\VisitDAO.class.php:92
+Stack trace:
+#0 C:\php_project-master\Index.php(64): VisitDAO::deleteVisit(1)
+#1 {main}
+  thrown in C:\php_project-master\inc\Utility\VisitDAO.class.php on line 92
+[22-Jul-2020 03:13:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOService::debugDumpParams() in C:\php_project-master\inc\Utility\VisitDAO.class.php:92
+Stack trace:
+#0 C:\php_project-master\Index.php(64): VisitDAO::deleteVisit(1)
+#1 {main}
+  thrown in C:\php_project-master\inc\Utility\VisitDAO.class.php on line 92
+[22-Jul-2020 03:13:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOService::debugDumpParams() in C:\php_project-master\inc\Utility\VisitDAO.class.php:92
+Stack trace:
+#0 C:\php_project-master\Index.php(64): VisitDAO::deleteVisit(1)
+#1 {main}
+  thrown in C:\php_project-master\inc\Utility\VisitDAO.class.php on line 92
+[22-Jul-2020 03:28:35 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to PatientDAO::getPatient() must be of the type int, string given, called in C:\Users\ghuma\Desktop\Alias\php_project-master\Index.php on line 39 and defined in C:\Users\ghuma\Desktop\Alias\php_project-master\inc\Utility\PatientDAO.class.php:37
+Stack trace:
+#0 C:\Users\ghuma\Desktop\Alias\php_project-master\Index.php(39): PatientDAO::getPatient('avneet')
+#1 {main}
+  thrown in C:\Users\ghuma\Desktop\Alias\php_project-master\inc\Utility\PatientDAO.class.php on line 37
+[22-Jul-2020 03:28:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\ghuma\Desktop\Alias\php_project-master\inc\Utility\PDOService.class.php:47
+Stack trace:
+#0 C:\Users\ghuma\Desktop\Alias\php_project-master\inc\Utility\PatientDAO.class.php(66): PDOService->query('SELECT * FROM p...')
+#1 C:\Users\ghuma\Desktop\Alias\php_project-master\Index.php(59): PatientDAO::patientLogin('avneet', '1234')
+#2 {main}
+  thrown in C:\Users\ghuma\Desktop\Alias\php_project-master\inc\Utility\PDOService.class.php on line 47
+[22-Jul-2020 03:28:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\ghuma\Desktop\Alias\php_project-master\inc\Utility\PDOService.class.php:47
+Stack trace:
+#0 C:\Users\ghuma\Desktop\Alias\php_project-master\inc\Utility\PatientDAO.class.php(66): PDOService->query('SELECT * FROM p...')
+#1 C:\Users\ghuma\Desktop\Alias\php_project-master\Index.php(59): PatientDAO::patientLogin('avneet', '5656')
+#2 {main}
+  thrown in C:\Users\ghuma\Desktop\Alias\php_project-master\inc\Utility\PDOService.class.php on line 47
